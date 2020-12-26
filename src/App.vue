@@ -2,6 +2,7 @@
   <div id="app">
     <!-- 根组件路由出口 -->
     <router-view/>
+    <p>hello</p>
   </div>
 </template>
 
